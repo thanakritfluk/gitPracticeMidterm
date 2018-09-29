@@ -15,6 +15,8 @@
     :return: sum of two number
     :raise: TypeError when arguments are not number
     """
+    if type(a) != int or type(b) != int:
+      raise TypeError
     return a + b
     ```
 1. Implement unittest
