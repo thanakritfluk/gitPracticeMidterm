@@ -2,7 +2,7 @@
 
 1. Always using descriptive name
     ```python
-      # This is not good
+      # This is good
       def aaaaaaaaa():
         return "aaaaaaa"
     ```
