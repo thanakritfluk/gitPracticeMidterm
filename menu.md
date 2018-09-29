@@ -3,8 +3,8 @@
 1. Always using descriptive name
     ```python
       # This is not good
-      def a():
-        return "a"
+      def aaaaaaaaa():
+        return "aaaaaaa"
     ```
 1. Always write good document
     ```python
