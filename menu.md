@@ -18,3 +18,5 @@
     return a + b
     ```
 1. Implement Junit
+2. Use Scrum
+3. Work in other project and learn new skill
